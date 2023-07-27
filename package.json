@@ -1,0 +1,24 @@
+{
+  "name": "happydale-dog-shelter",
+  "version": "1.0.0",
+  "description": "![logo](https://user-images.githubusercontent.com/44912347/202267508-23446aef-3078-481b-b39c-93ab6a1df444.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start-dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonebyMo/happydale-dog-shelter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DonebyMo/happydale-dog-shelter/issues"
+  },
+  "homepage": "https://github.com/DonebyMo/happydale-dog-shelter#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
